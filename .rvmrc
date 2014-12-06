@@ -1,0 +1,2 @@
+rvm 2.1.2@sidekiq-example --create
+rvm_install_on_use_flag=1
